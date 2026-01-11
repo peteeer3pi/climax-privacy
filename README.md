@@ -21,4 +21,4 @@ La app puede mostrar anuncios anónimos de redes de publicidad compatibles. No s
 ## 5. Contacto
 
 Si tienes preguntas sobre la privacidad de tus datos, contáctanos en:  
-**support@climax.app**
+**appclimax10@gmail.com**
